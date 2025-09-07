@@ -1,0 +1,16 @@
+*{
+    font-family: sans-serif;
+}
+.mainheading,nav{
+    text-align: center;
+}
+nav a{
+    margin: 0 5px;
+    text-decoration: none;
+}
+.heading{
+    color: black;
+    text-align: left;
+    font-weight: 700;
+    padding: 20px;
+}
