@@ -14,3 +14,8 @@ nav a{
     font-weight: 700;
     padding: 20px;
 }
+p{
+    font-size: medium;
+    line-height: 21px;
+    color: darkgray;
+}
