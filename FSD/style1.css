@@ -1,0 +1,15 @@
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    line-height: 27px;
+}
+.subbut{
+    color: azure;
+    background-color: black;
+}
+.subbut:hover{
+    color: blue;
+    background-color: aquamarine;
+}
